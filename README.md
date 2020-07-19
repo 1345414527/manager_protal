@@ -107,7 +107,7 @@
 
 
 
-![](https://yanxuan.nosdn.127.net/61412a689b3b96538188fe77055ab194.jpg)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719095908918.png)
 
 
 
@@ -121,7 +121,7 @@
 
 ### 前台
 
-![](https://yanxuan.nosdn.127.net/f771c5a2a229485a0927b7dee29f2fc4.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719095927780.png)
 
 <br/>
 
@@ -129,7 +129,7 @@
 
 ### 后台
 
-![](https://yanxuan.nosdn.127.net/2ef73b2ecfe5909f084656a120deae3d.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719095942531.png)
 
 
 
@@ -139,7 +139,7 @@
 
 ## 单微服务目录框架
 
-![](https://yanxuan.nosdn.127.net/ca8a6f7f8927e394fe00282369852d6c.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719095958507.png)
 
 
 
@@ -183,7 +183,7 @@ CREATE TABLE `tb_user` (
 
 
 
-![](https://yanxuan.nosdn.127.net/802402659e2428cf2fd893028e5b4ecc.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100021896.png)
 
 
 
@@ -193,7 +193,7 @@ CREATE TABLE `tb_user` (
 
 ### 手机，邮箱验证码获取接口
 
-![](https://yanxuan.nosdn.127.net/81b3cf28a4dfa79c86be25c1d147b63c.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100035771.png)
 
 &emsp;这里就两个接口，一个是获取手机验证码，一个是获取邮箱验证码
 
@@ -225,13 +225,13 @@ CREATE TABLE `tb_user` (
 
 ### 用户基本的DML操作服务接口
 
-![](https://yanxuan.nosdn.127.net/859c83d9af2543dbc0ac45f43247c914.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100048732.png)
 
 
 
 &emsp;DML操作无非就是赠删改操作，但是看我们的API接口却并==没有DELETE的操作==，这是为什么呢？
 
-![](https://yanxuan.nosdn.127.net/7c08ec43f7cab6833146b1b196a99e52.jpg)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100058709.png)
 
 &emsp;仔细看我们的[用户数据库表](#user_table),我是使用的==逻辑删除==！
 
@@ -276,7 +276,7 @@ CREATE TABLE `tb_subject` (
 
 #### 试题表
 
-![](https://yanxuan.nosdn.127.net/2c2887675c6885fae5eb9df087e1e8ac.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100111216.png)
 
 > 试题的信息是存放在MongoDB中的
 
@@ -294,7 +294,7 @@ CREATE TABLE `tb_subject` (
 
 #### 试卷表
 
-![](https://yanxuan.nosdn.127.net/7e3b99a44855900122b83d998c122a5f.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100127333.png)
 
 > 试卷的信息也是存放在MongoDB中的
 
@@ -398,7 +398,7 @@ CREATE TABLE `tb_exam_answer_situation` (
 
 #### 日志记录表
 
-![](https://yanxuan.nosdn.127.net/8b3a13fefb2182f0f84502688bd7159c.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100145397.png)
 
 > 用于记录用户，管理员的一些试卷操作。(比如：答题，取消试卷订阅，重置试卷等)
 
@@ -406,7 +406,7 @@ CREATE TABLE `tb_exam_answer_situation` (
 
 ### API
 
-![](https://yanxuan.nosdn.127.net/846785377ff4538f097d3abe04b8ab94.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100157910.png)
 
 
 
@@ -540,7 +540,7 @@ String thumbImagePath =uploadProperties.getImageUrl()+storePath.getGroup()+"/"+t
 
 ### API
 
-![](https://yanxuan.nosdn.127.net/f704ed1d680d222da145db26ff6db1a7.png)
+![](C:\Users\MyPC\AppData\Roaming\Typora\typora-user-images\image-20200719100208523.png)
 
 > 加一个搜索查询API
 
