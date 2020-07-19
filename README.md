@@ -2,6 +2,16 @@
 
 &emsp;:point_right: ​ [manager-service](https://github.com/1345414527/manager_service)
 
+<br/>
+
+## 视频演示
+
+&emsp;:point_right:[b站视频](https://www.bilibili.com/video/bv13C4y1b7NS)
+
+
+
+<br/>
+
 
 
 ## 项目基本功能
