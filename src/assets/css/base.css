@@ -1,0 +1,78 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img,#app {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+#app,body,html{
+  height: 100% ;
+}
+
+input[type="number"]::-webkit-inner-spin-button{
+  -webkit-appearance: none;
+}
+
+em,i{
+  font-style:normal
+}
+
+li{
+  list-style:none
+}
+
+img{
+  border:0;vertical-align:middle
+}
+
+button{
+  cursor:pointer
+}
+
+a{
+  color:#666;
+  text-decoration:none
+}
+
+a:hover{
+  color:#c81623
+}
+
+button,input{
+  font-family:Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+  border: 0;
+  outline: none;
+}
+
+/*body{*/
+/*  -webkit-font-smoothing:antialiased;*/
+/*  background-color:#fff;*/
+/*  font:12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;*/
+/*  color:#666*/
+
+/*}*/
+
+body {
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  user-select: none; /* 禁止用户鼠标在页面上选中文字/图片等 */
+  -webkit-tap-highlight-color: transparent; /* webkit是苹果浏览器引擎，tap点击，highlight背景高亮，color颜色，颜色用数值调节 */
+  background: var(--color-background);
+  color: var(--color-text);
+  /* rem vw/vh */
+  width: 100vw;
+}
+
+.hide,.none{
+  display:none;
+}
+
+.clearfix:after{
+  visibility:hidden;
+  clear:both;
+  display:block;
+  content:".";
+  height:0;
+}
+
+.clearfix{
+  *zoom:1
+}

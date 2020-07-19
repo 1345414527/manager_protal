@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1137788",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1221263",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4520176",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "4933437",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "6742925",
+      "name": "医学科普",
+      "font_class": "yixuekepu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7254035",
+      "name": "成绩统计",
+      "font_class": "chengjitongji",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7258111",
+      "name": "考生管理",
+      "font_class": "kaoshengguanli",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "9591221",
+      "name": "试卷",
+      "font_class": "shijuan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11845344",
+      "name": "试卷",
+      "font_class": "icon_xinyong_xianxing_jijin-",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "12548117",
+      "name": "成绩",
+      "font_class": "chengji-",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "14145086",
+      "name": "日志",
+      "font_class": "rizhi",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    }
+  ]
+}
